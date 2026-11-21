@@ -9,7 +9,7 @@ status: open
 
 # Handoff crate-overnight #1: autonomous night session (research + draft map)
 
-**Objective:** while Jordi sleeps, take Crate from "one unverified market study" to "verified research base + a draft wayfinder map + a morning review Jordi can do step by step and calmly". Work AFK for up to about 4 h 30 from your start time, then cut with a handoff (`crate-overnight` #2). Plan, don't do: no product code tonight.
+**Objective:** while Jordi sleeps, do as much as you can that will be useful to review in the next session. Jordi does not expect a finished product or a final version. He expects a solid base to review with you step by step: verified research, a draft wayfinder map, an opportunity brief and his decisions laid out with options. When in doubt between two useful things, pick the one that saves him more review time. Work AFK for up to about 4 h 30 from your start time, then cut with a handoff (`crate-overnight` #2). Plan, don't do: no product code tonight.
 
 ## 1. State on closing
 
