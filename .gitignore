@@ -1,0 +1,42 @@
+# Base: agentic-setup-project-jn gitignore template (export v2.0) plus the Personal Ariadne additions (hub D-0001, github-repos.md).
+# Personal Claude Code settings (never commit)
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+.git-credentials
+.netrc
+*.age
+*.gpg
+
+# Dependencies / virtualenvs
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Temporary
+*.tmp
+*.swp
+*~
+
+# Export packages from other instances: they can carry paths or the employer's name
+*.7z
+*.zip

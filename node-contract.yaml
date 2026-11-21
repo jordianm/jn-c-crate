@@ -1,0 +1,37 @@
+# Node contract (Personal Ariadne, agentic-setup-project-jn).
+# Each value carries its source so a default is never read as a decision.
+# The class is derived, never stored. Written 2026-11-22.
+
+name:
+  value: "JN C Crate"
+  source: declared
+
+lifecycle:
+  value: dated          # ephemeral | durable | dated
+  source: declared
+
+domain:
+  value: personal              # team:<alias> | personal
+  source: default
+
+perimeter:
+  value: personal              # corporate | personal | foreign-tenant
+  source: derived              # Jordi's tower disk, mounted in the commercial container
+
+parent:
+  value: jn-c-commercial-brain
+  source: derived
+
+operators:
+  value:
+    - person: "Jordi Namay"
+      role: owner
+  source: derived
+
+consolidates:
+  value: false
+  source: default              # no child nodes
+
+requires:
+  value: []
+  source: default
