@@ -32,6 +32,8 @@ charted: 2026-11-22, AFK, by the overnight session (crate-overnight #1), without
 - [What a new game can do with Spotify](04-spotify-access.md): games are banned in the Web API and, without written approval, in embeds too; Development Mode is non-commercial and capped at 5 users; Spotify cannot be a dependency, and even link-and-embed use needs a lawyer's view.
 - [Whether the game can live inside group chats](11-group-channels.md): only Discord can host the game (Activities or a bot); Telegram is a free second; WhatsApp can't host it (groups capped at 8, paid messages) but share links work; reminders should come from the app itself.
 
+<!-- ticket 21 (daily music games and recaps, research) added 2026-11-22 by crate-session-2 after Jordi's raw ideas -->
+
 ## Not yet specified
 
 - **Name and brand.** D-0001 defers the product name until the market shows which names are taken; it also waits on the direction. Likely a research ticket (names, domains, trademarks) plus a grilling one.
