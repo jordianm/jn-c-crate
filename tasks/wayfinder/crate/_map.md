@@ -27,7 +27,7 @@ charted: 2026-11-22, AFK, by the overnight session (crate-overnight #1), without
 
 <!-- one line per closed ticket: [title](file): gist -->
 
-_None yet. The overnight session is resolving the eleven research tickets; their gists land here as each closes._
+- [Music League today, verified](01-music-league-today.md): 2.0 is a public beta (2026-11-12) that already has league chat, public leagues and three-channel reminders; Spotify and Apple Music only; Premium is ads off plus CSV export; how it fits Spotify's game ban is unexplained.
 
 ## Not yet specified
 
