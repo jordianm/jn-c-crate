@@ -29,6 +29,8 @@ charted: 2026-11-22, AFK, by the overnight session (crate-overnight #1), without
 
 - [Music League today, verified](01-music-league-today.md): 2.0 is a public beta (2026-11-12) that already has league chat, public leagues and three-channel reminders; Spotify and Apple Music only; Premium is ads off plus CSV export; how it fits Spotify's game ban is unexplained.
 - [What a new game can do with YouTube](06-youtube-access.md): embedded playback and ad-hoc playlists are free and keyless (within the player rules); search is capped at 100 calls a day for the whole product and needs an audit to grow; YouTube Music has no API, but its links resolve keylessly.
+- [What a new game can do with Spotify](04-spotify-access.md): games are banned in the Web API and, without written approval, in embeds too; Development Mode is non-commercial and capped at 5 users; Spotify cannot be a dependency, and even link-and-embed use needs a lawyer's view.
+- [Whether the game can live inside group chats](11-group-channels.md): only Discord can host the game (Activities or a bot); Telegram is a free second; WhatsApp can't host it (groups capped at 8, paid messages) but share links work; reminders should come from the app itself.
 
 ## Not yet specified
 
