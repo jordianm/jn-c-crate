@@ -28,6 +28,7 @@ charted: 2026-11-22, AFK, by the overnight session (crate-overnight #1), without
 <!-- one line per closed ticket: [title](file): gist -->
 
 - [Music League today, verified](01-music-league-today.md): 2.0 is a public beta (2026-11-12) that already has league chat, public leagues and three-channel reminders; Spotify and Apple Music only; Premium is ads off plus CSV export; how it fits Spotify's game ban is unexplained.
+- [What a new game can do with YouTube](06-youtube-access.md): embedded playback and ad-hoc playlists are free and keyless (within the player rules); search is capped at 100 calls a day for the whole product and needs an audit to grow; YouTube Music has no API, but its links resolve keylessly.
 
 ## Not yet specified
 
