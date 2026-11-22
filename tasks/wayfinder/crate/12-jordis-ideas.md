@@ -21,6 +21,7 @@ Stated before any grilling; recorded as said, not yet challenged or decided.
 - **Clarification (same day):** the "mini short" means a short **audio** clip. If no lawful route exists, everything is links.
 - **Constraint:** value is added on top of a legally safe base, keeping costs to the minimum.
 - **Engagement layer.** Daily games (a musical Wordle of some kind); everything built around competing with friends and gamification.
+- **Daily game, possible shape (after the legal and daily-games research):** text and images, maybe free audio hints where possible, ending in a link out to a platform. To think about; not decided.
 - **Gaps in Music League today.** Look for them through integrations, advantages and modern formats. Jordi finds the current Music League mobile and web experience poor.
 - **Simple, strong base first.** Grow from there.
 - **Newsletter and automated "stories" per league**, personalised, with a "matchday status" that drives engagement; later, possible cross-selling deals through links and the like.
