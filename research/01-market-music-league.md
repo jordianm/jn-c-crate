@@ -4,6 +4,14 @@ Access date for all sources: 2026-11-22.
 
 > **Method note.** No page could be opened directly from this environment: both WebFetch and `curl` returned "CONNECT tunnel failed, 403", and reddit.com is blocked for the search tool. Everything below comes from WebSearch results, which return snippets and summaries of each page, not the full page. The URLs cited are the ones in those results. Anything that needed the full page text is marked **not verified**. Open the source by hand before making a decision that depends on an exact figure.
 
+> **Corrections (2026-11-22, after the wayfinder research).** This study was built from search snippets. The verified research in [`tasks/wayfinder/crate/research/`](../tasks/wayfinder/crate/research/) supersedes it where they differ; read [02-opportunity-brief.md](02-opportunity-brief.md) first. Main points:
+> - **Spotify embeds are also restricted:** the Widget Terms (IV.2.d) bar Spotify content in "any game functionality" without written approval; this study covered only the Web API ban ([spotify-access](../tasks/wayfinder/crate/research/spotify-access.md)).
+> - **Apple's monetisation ban sits in the developer agreement (DPLA 3.3.6(D))**, not only in App Review guideline 4.5.2, so it binds a web app using MusicKit too; previews may not be a game's soundtrack (guideline 5.2.5) ([apple-music-access](../tasks/wayfinder/crate/research/apple-music-access.md)).
+> - **YouTube's June 2026 change was not a search cut:** search moved into its own bucket of 100 calls a day ([youtube-access](../tasks/wayfinder/crate/research/youtube-access.md)).
+> - **Section 3 (complaints) is replaced** by a sample of 458 App Store reviews: ads appear in 62% of them, not "52 mentions" ([player-sentiment](../tasks/wayfinder/crate/research/player-sentiment.md)).
+> - **Section 4 gaps 3-6** (reminders, chat, stats, guess-who) are already shipped by BandJam or DJ League ([competitors](../tasks/wayfinder/crate/research/competitors.md)).
+> - **Deezer, TIDAL and SoundCloud are closed to a game** by their terms; the free Odesli API is gone ([other-services](../tasks/wayfinder/crate/research/other-services.md), [song-matching](../tasks/wayfinder/crate/research/song-matching.md)).
+
 ## Key points
 
 - **Music League is the leader and has just changed a lot.** It was founded in Iowa by Nathan Coleman, Matt Keller and Eric West (CEO). The company claims over 1.1 million registered users and about 200,000 monthly active players ([Iowa Tech Podcast](https://iowapodcast.com/music-league-eric-west/)). It has just rebuilt the product from scratch ([next.musicleague.com](https://next.musicleague.com/news/why-we-rebuilt-music-league)), adding Apple Music, its own accounts and fewer ads.
