@@ -18,6 +18,8 @@ _Context:_ Jordi kept his ideas out of the research on purpose, so this comes af
 Stated before any grilling; recorded as said, not yet challenged or decided.
 
 - **Links only.** The game generates links to the platforms (songs, playlists), and at most, where allowed, a short clip ("mini short") of the song. All listening happens on the other platforms, where it is allowed.
+- **Clarification (same day):** the "mini short" means a short **audio** clip. If no lawful route exists, everything is links.
+- **Constraint:** value is added on top of a legally safe base, keeping costs to the minimum.
 - **Engagement layer.** Daily games (a musical Wordle of some kind); everything built around competing with friends and gamification.
 - **Gaps in Music League today.** Look for them through integrations, advantages and modern formats. Jordi finds the current Music League mobile and web experience poor.
 - **Simple, strong base first.** Grow from there.
