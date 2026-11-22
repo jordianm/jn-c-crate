@@ -40,7 +40,7 @@ charted: 2026-11-22, AFK, by the overnight session (crate-overnight #1), without
 - [Which technical shapes fit on free tiers](10-tech-options.md): a PWA on Supabase Free or Cloudflare Free fits; Firebase Spark and Vercel Hobby are out; email is the tightest free resource; Apple sign-in and a domain cost money.
 - [Daily music games and automated recaps, as they exist today](21-daily-games-and-recaps.md): no daily music game documents a licence for commercial audio; no-audio formats (Spotle, Lyricle) get traction; Heardle was closed by Spotify, not taken down; free web sharing is Web Share, OG cards and text grids.
 
-<!-- ticket 21 (daily music games and recaps, research) added 2026-11-22 by crate-session-2 after Jordi's raw ideas -->
+<!-- tickets 21, 22 and 23 (research) added 2026-11-22 by crate-session-2 after Jordi's raw ideas; 22 and 23 still open -->
 
 ## Not yet specified
 

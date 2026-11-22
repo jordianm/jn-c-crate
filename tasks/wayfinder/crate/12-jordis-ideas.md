@@ -25,4 +25,11 @@ Stated before any grilling; recorded as said, not yet challenged or decided.
 - **Gaps in Music League today.** Look for them through integrations, advantages and modern formats. Jordi finds the current Music League mobile and web experience poor.
 - **Simple, strong base first.** Grow from there.
 - **Newsletter and automated "stories" per league**, personalised, with a "matchday status" that drives engagement; later, possible cross-selling deals through links and the like.
+### Second batch (2026-11-22, later in the session, dictated; transcription was noisy, gist below)
+
+- **Gamification references:** Duolingo-style mechanics, and other products that work well at engaging people; study what they do.
+- **Viral and social, integrated with other things:** detect trending songs and bring them in; content that is easy to share; interaction between league mates.
+- **Music discovery beyond the league:** where a group works well, help it discover music. Jordi believes players like discovering new music beyond the league's own songs, and that Music League does not do this.
+- **Example:** a weekly playlist of suggested songs (as links), generated from the songs a player upvoted.
+- **Approach:** think out of the box for added value, but always from a conservative base.
 - **Pace:** step by step.
