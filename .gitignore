@@ -40,3 +40,6 @@ build/
 # Export packages from other instances: they can carry paths or the employer's name
 *.7z
 *.zip
+
+# Syncthing (F5, puente tablet/móvil): las copias de conflicto no van nunca a git; np-sync avisa al abrir sesión
+*.sync-conflict-*
